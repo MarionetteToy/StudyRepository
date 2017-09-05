@@ -1,0 +1,54 @@
+*   [33mcommit 6080b52cae7b4cb39297410f8c4e11d7625aabfb[m
+[31m|[m[32m\[m  Merge: 1f7bb58 f43ab0c
+[31m|[m [32m|[m Author: MarionetteToy <1072988987@qq.com>
+[31m|[m [32m|[m Date:   Sun Sep 3 15:46:27 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit f43ab0cb13ff03b526812eacc9708212bfba0f33[m
+[31m|[m [32m|[m Author: MarionetteToy <1072988987@qq.com>
+[31m|[m [32m|[m Date:   Sun Sep 3 15:42:10 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     AND simple
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 1f7bb588ad41da0d9c07a7301d979e818f8255b9[m
+[32m|[m[32m/[m  Author: MarionetteToy <1072988987@qq.com>
+[32m|[m   Date:   Sun Sep 3 15:43:42 2017 +0800
+[32m|[m   
+[32m|[m       & simple
+[32m|[m  
+* [33mcommit 9241c055bb1b9f387c7cc6072995ccfa94a3ff3b[m
+[32m|[m Author: MarionetteToy <1072988987@qq.com>
+[32m|[m Date:   Sun Sep 3 15:36:58 2017 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m  
+* [33mcommit fc3b756043e66502a301ae76ea2537d2f4697eec[m
+[32m|[m Author: MarionetteToy <1072988987@qq.com>
+[32m|[m Date:   Sun Sep 3 14:59:41 2017 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m  
+* [33mcommit d3bbcdb77fbe3ccda945732015d1b7b62d464e32[m
+[32m|[m Author: MarionetteToy <1072988987@qq.com>
+[32m|[m Date:   Sun Sep 3 14:57:15 2017 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m  
+* [33mcommit 7d70d627de07ab058c5cff3c6df5272c8a1403d5[m
+[32m|[m Author: MarionetteToy <1072988987@qq.com>
+[32m|[m Date:   Sun Sep 3 14:38:08 2017 +0800
+[32m|[m 
+[32m|[m     add File changed.
+[32m|[m  
+* [33mcommit cb4a3fafa4b7f5f147f0818423d7a99c6edf5e4a[m
+[32m|[m Author: MarionetteToy <1072988987@qq.com>
+[32m|[m Date:   Sun Sep 3 14:34:32 2017 +0800
+[32m|[m 
+[32m|[m     commit可以一次性提交多个文件
+[32m|[m  
+* [33mcommit b91ba0645d14d2ebe1da8a7ed033607bf4f17816[m
+  Author: MarionetteToy <1072988987@qq.com>
+  Date:   Fri Aug 25 10:51:00 2017 +0800
+  
+      wrote a readme.txt
